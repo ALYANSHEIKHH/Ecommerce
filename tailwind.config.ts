@@ -9,11 +9,13 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        background: "var(--background)",  // Custom background color
+        foreground: "var(--foreground)",  // Custom foreground color
+        Alyan: "#F35C7A",                 // Your custom Alyan color
       },
     },
   },
   plugins: [],
 };
+
 export default config;
