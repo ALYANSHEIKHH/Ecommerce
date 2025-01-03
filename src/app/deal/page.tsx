@@ -15,7 +15,7 @@ const DealPage = () => {
       originalPrice: "$100",
       link: "#",
       image:
-        "https://via.placeholder.com/600x400/1e40af/ffffff?text=Winter+Offer",
+        "jj.jpg",
     },
     {
       title: "Summer Sale",
@@ -34,7 +34,7 @@ const DealPage = () => {
       originalPrice: "$400",
       link: "#",
       image:
-        "https://via.placeholder.com/600x400/000000/ffffff?text=Black+Friday",
+        "/nn.jpg",
     },
   ];
 
@@ -46,7 +46,7 @@ const DealPage = () => {
             Sensational Deals Await!
           </h1>
           <p className="text-lg md:text-xl text-gray-700 leading-relaxed max-w-3xl mx-auto">
-            Get ready to save big on the best offers of the season! Limited-time deals that you can`&apos;`t afford to miss!
+            Get ready to save big on the best offers of the season! Limited-time deals that you can&apos;t afford to miss!
           </p>
         </div>
 
@@ -95,7 +95,7 @@ const DealPage = () => {
               You Selected: {selectedDeal}
             </motion.h2>
             <p className="text-lg text-gray-600">
-              Congratulations! You`&apos;`ve selected a fantastic deal. Click the button below to grab it before it`&apos;`s gone!
+              Congratulations! You&apos;ve selected a fantastic deal. Click the button below to grab it before it`&apos;`s gone!
             </p>
             <motion.a
               href="#"

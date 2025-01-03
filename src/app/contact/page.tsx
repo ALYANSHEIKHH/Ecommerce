@@ -31,7 +31,7 @@ const ContactPage = () => {
         <div className="text-center mb-12">
           <h1 className="text-5xl font-extrabold text-gray-900 mb-4">Contact Us</h1>
           <p className="text-lg md:text-xl text-gray-700 leading-relaxed max-w-3xl mx-auto">
-            We`&apos;`d love to hear from you! Reach out for any inquiries, feedback, or just to say hello. We`&apos;`re here to help!
+            We&apos;d love to hear from you! Reach out for any inquiries, feedback, or just to say hello. We&apos;re here to help!
           </p>
         </div>
 
